@@ -1,0 +1,109 @@
+{
+    "movies":[
+       {  "id": 1,
+          "title":"Alicja w krainie czarów",
+          "year":2010,
+          "type": [
+              "Famililijny",
+              "Fantasy",
+              "Przygodowy"
+          ],
+          "imgUrl": "https://fwcdn.pl/fpo/58/18/465818/7715533.3.jpg",
+          "direction": "Tim Burton",
+          "scenario" : "Linda Woolverton",
+          "production": "USA",
+          "description":"Dziewiętnastoletnia Alicja wraca do krainy z dzieciństwa, gdzie dowiaduje się, że jej przeznaczeniem jest zdetronizować Królową Kier.",
+          "grade": 9,
+          "comments":
+          [
+              {
+                  "author": "Alice",
+                  "text": "Najlepszy film jaki widziałam!"
+              },
+              {
+                  "author": "Tom",
+                  "text": "Najlepszy film jaki widziałam!"
+              },
+              {
+                  "author": "Alex",
+                  "text": "Najlepszy film jaki widziałam!"
+              }
+            ],
+            "seances":
+            [
+                {
+                    "id": 1,
+                    "time": "18:00",
+                    "room": 4,
+                    "seats":
+                    [
+                        1,10,25,30,17,15
+                    ]
+                },
+                {
+                    "id": 2,
+                    "time": "14:00",
+                    "room": 2,
+                    "seats":
+                    [
+                        1,10,25,30,17,15
+                    ]
+                }
+            ]
+
+       },
+       {
+        "id": 2,
+        "title":"Alicja w krainie czarów",
+        "year":2010,
+        "type": [
+            "Famililijny",
+            "Fantasy",
+            "Przygodowy"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/58/18/465818/7715533.3.jpg",
+        "direction": "Tim Burton",
+        "scenario" : "Linda Woolverton",
+        "production": "USA",
+        "description":"Dziewiętnastoletnia Alicja wraca do krainy z dzieciństwa, gdzie dowiaduje się, że jej przeznaczeniem jest zdetronizować Królową Kier.",
+        "grade": 9,
+        "comments":
+        [
+            {
+                "author": "Alice",
+                "text": "Najlepszy film jaki widziałam!"
+            },
+            {
+                "author": "Tom",
+                "text": "Najlepszy film jaki widziałam!"
+            },
+            {
+                "author": "Alex",
+                "text": "Najlepszy film jaki widziałam!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "18:00",
+                  "room": 4,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 2,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     }
+    ]
+ }
