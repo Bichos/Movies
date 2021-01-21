@@ -12,22 +12,24 @@
           "direction": "Tim Burton",
           "scenario" : "Linda Woolverton",
           "production": "USA",
-          "description":"Dziewiętnastoletnia Alicja wraca do krainy z dzieciństwa, gdzie dowiaduje się, że jej przeznaczeniem jest zdetronizować Królową Kier.",
+          "description":"Kiedy Alicja była małą dziewczynką, pobiegła za Białym Królikiem, wpadła do jego nory i niespodziewanie znalazła się fantastycznym i nieco dziwacznym świecie, gdzie żyją bajkowe stwory, mówiące zwierzęta i śpiewające kwiaty, a mieszkańcy obchodzą nie-urodziny. Teraz Alicja ma już 19 lat i powraca do tej niezwykłej krainy, by ponownie spotkać dawnych znajomych. Tim Burton ('Edward Nożycoręki', 'Batman') podjął się zaczarowania świata doskonale znanego z dwóch książek Lewisa Carrolla - Alicja w Krainie Czarów oraz Alicja po drugiej stronie lustra. Scenariusz do tej fantastycznej produkcji stworzyła Linda Woolverton, która stoi za sukcesem 'Króla lwa'. W tytułowej roli wystąpi młoda australijska aktorka polskiego pochodzenia - Mia Wasikowska, natomiast w postać Zwariowanego Kapelusznika wcieli się Johnny Depp.",
           "grade": 9,
           "comments":
           [
               {
                   "author": "Alice",
                   "text": "Najlepszy film jaki widziałam!",
-                  "imgUrl": "https://i.pinimg.com/474x/4e/4c/37/4e4c37d444e3c2e16a124a1cf5255e85.jpg",
+                  "imgUrl": "https://i.pinimg.com/474x/4e/4c/37/4e4c37d444e3c2e16a124a1cf5255e85.jpg"
               },
               {
                   "author": "Tom",
-                  "text": "Najlepszy film jaki widziałam!"
+                  "text": "Bardzo dobry, polecam!",
+                  "imgUrl": "https://thumbs.dreamstime.com/b/happy-smiling-geek-hipster-beard-man-cool-avatar-geek-man-avatar-104871313.jpg"
               },
               {
                   "author": "Alex",
-                  "text": "Najlepszy film jaki widziałam!"
+                  "text": "Nic dodać nic ująć, perełka! :)",
+                  "imgUrl": "https://cdn.myshoptet.com/usr/www.wymalujtosam.pl/user/shop/big/408-1_malowanie-po-nuemrach-marilyn-monroe.png"
               }
             ],
             "seances":
@@ -47,7 +49,7 @@
                     "room": 2,
                     "seats":
                     [
-                        1,10,25,30,17,15
+                        1,10,25,30,17,15,20,19,13,30
                     ]
                 }
             ]
@@ -55,40 +57,38 @@
        },
        {
         "id": 2,
-        "title":"Alicja w krainie czarów",
-        "year":2010,
+        "title":"Zielona mila",
+        "year":1999,
         "type": [
-            "Famililijny",
-            "Fantasy",
-            "Przygodowy"
+            "Dramat"
         ],
-        "imgUrl": "https://fwcdn.pl/fpo/58/18/465818/7715533.3.jpg",
-        "direction": "Tim Burton",
-        "scenario" : "Linda Woolverton",
+        "imgUrl": "https://fwcdn.pl/fpo/08/62/862/7517878.6.jpg",
+        "direction": "Frank Darabont",
+        "scenario" : "Frank Darabont",
         "production": "USA",
-        "description":"Dziewiętnastoletnia Alicja wraca do krainy z dzieciństwa, gdzie dowiaduje się, że jej przeznaczeniem jest zdetronizować Królową Kier.",
-        "grade": 9,
+        "description":"Rok 1935. Paul Edgecombe (Tom Hanks) jest jednym ze strażników bloku śmierci w więzieniu Cold Mountain. Do jego obowiązków należy odprowadzanie skazańców do celi śmierci długim korytarzem, wyłożonym zieloną wykładziną, zwaną 'Zieloną milą'. Pewnego dnia do więzienia przybywa olbrzymi czarnoskóry skazaniec, John Coffey (Michael Clarke Duncan). Ma oczekiwać na karę śmierci za zamordowanie dwóch białych dziewczynek. Jego wizyta na zawsze zmieni życie Paula i pozostałych pracowników więzienia. ",
+        "grade": 7,
         "comments":
         [
             {
-                "author": "Alice",
-                "text": "Najlepszy film jaki widziałam!"
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
             },
             {
-                "author": "Tom",
-                "text": "Najlepszy film jaki widziałam!"
+                "author": "Beata",
+                "text": "Best best best!"
             },
             {
-                "author": "Alex",
-                "text": "Najlepszy film jaki widziałam!"
+                "author": "Pawełek",
+                "text": "Lubie to!"
             }
           ],
           "seances":
           [
               {
                   "id": 3,
-                  "time": "18:00",
-                  "room": 4,
+                  "time": "17:00",
+                  "room": 1,
                   "seats":
                   [
                       1,10,25,30,17,15
@@ -97,7 +97,422 @@
               {
                 "id": 4,
                   "time": "14:00",
-                  "room": 2,
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 3,
+        "title":"Split",
+        "year":2016,
+        "type": [
+            "Thriller"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/02/58/750258/7773797.6.jpg",
+        "direction": "M. Night Shyamalan",
+        "scenario" : "M. Night Shyamalan",
+        "production": "Japonia/USA",
+        "description":"Cierpiący na rozdwojenie jaźni Kevin (James McAvoy), uczęszcza do psychiatry, dr Fletcher (Betty Buckley), która pomaga mu w walce z chorobą. Pacjent posiada 23 różne osobowości, które potrafi opanować, lecz kiedy pojawia się kolejna, dominująca, traci kontrole. Wkrótce porywa trzy nastolatki i więzi je w piwnicy. Zdesperowane dziewczyny muszą odkryć, która osobowość może pomóc im w ucieczce, a która spróbuje je powstrzymać.",
+        "grade": 6,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 4,
+        "title":"Leon Zawodowiec",
+        "year":1994,
+        "type": [
+            "Dramat",
+            "Kryminał"
+        ],
+        "imgUrl": "https://www.filmweb.pl/film/Leon+zawodowiec-1994-671/posters",
+        "direction": "Luc Besson",
+        "scenario" : "Luc Besson",
+        "production": "Francja",
+        "description":"Leon (Jean Reno) jest płatnym zabójcą. W niczym nie przypomina męskiego, twardego i nieposkromionego złoczyńcy. Wręcz przeciwnie: jest cichy, spokojny, na co dzień pije mleko. Pewnego dnia skorumpowana policja zabija swojego dostawcę narkotyków i jego rodzinę. Przeżyła tylko córka, która postanawia zemścić się na zabójcach. To niezwykle trudne zlecenie otrzymuje Leon, u którego młoda dziewczyna znajduje schronienie.",
+        "grade": 8,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 5,
+        "title":"Matrix",
+        "year":1999,
+        "type": [
+            "Akcja",
+            "Sci-Fi"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/06/28/628/7685907.6.jpg",
+        "direction": "Lilly Wachowski / Lana Wachowski",
+        "scenario" : "Lilly Wachowski / Lana Wachowski",
+        "production": "Australia/USA",
+        "description":"Neo (Keanu Reeves) jest genialnym hakerem. Pewnego dnia nawiązuje z nim kontakt tajemniczy Morfeusz (Laurence Fishburne) - człowiek, który obiecuje przekazać mu wiedzę o rzeczywistości, w jakiej żyje. Prawdę o dwóch światach: prawdziwym i wygenerowanym, który ma tylko udawać rzeczywistość. Neo przystaje do grupy Morfeusza i zaczyna dostrzegać, że świat, w którym egzystował to fikcja, a jego życiem cały czas ktoś kierował. Kolejne stopnie wtajemniczenia stawiają przed Neo nowe pytania. Czym jest Matrix i komu służy? I jaką rolę w planie Morfeusza ma do spełnienia on sam?",
+        "grade": 7,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 6,
+        "title":"Avatar",
+        "year":2009,
+        "type": [
+            "Sci-Fi"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/91/13/299113/7332755.6.jpg",
+        "direction": "James Cameron",
+        "scenario" : "James Cameron",
+        "production": "USA/ Wielka Brytania",
+        "description":"Długo oczekiwany film Jamesa Camerona zrealizowany z wielkim rozmachem porównywalnym do Titanica. Szacowany budżet na poziomie 237 milionów dolarów daje mu trzecie miejsce pod tym względem w historii kina. Avatar został wykonany w dwóch technikach: tradycyjnej 2D i zupełnie nowej technice 3D. Zdjęcia do filmu zostały wykonane w 2007 roku, natomiast na postprodukcję przeznaczono dwa lata. Avatar opowiada historię sparaliżowanego byłego komandosa, który dostaje szansę odzyskania zdrowego ciała. Musi jednak wziąć udział w specjalnym programie militarnym o nazwie Avatar. W rolach głównych między innymi Sam Worthington, Sigourney Weaver, Michelle Rodriguez. ",
+        "grade": 7,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 7,
+        "title":"Shrek",
+        "year":2001,
+        "type": [
+            "Animacja",
+            "Famililijny",
+            "Komedia"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/95/09/9509/7640796.6.jpg",
+        "direction": "Andrew Adamson / Vicky Jenson",
+        "scenario" : "Andrew Adamson ...",
+        "production": "USA",
+        "description":"W bagnie żył olbrzym Shrek, którego cenna samotność została nagle zakłócona inwazją dokuczliwych postaci z bajek. Ślepe myszki buszują w zapasach olbrzyma, zły wilk sypia w jego łóżku, a trzy świnki buszują po jego samotni. Wszystkie te postaci zostały wypędzone ze swego królestwa przez złego Lorda Farquaada. Zdecydowany ocalić ich dom - nie mówiąc już o swoim - Shrek porozumiewa się z Farquaadem i wyrusza na ratunek pięknej księżniczce Fionie, która ma zostać żoną Lorda. W misji towarzyszy mu przemądrzały Osioł, który zrobi dla Shreka wszystko z wyjątkiem... przestania mielenia ozorem. Ocalenie księżniczki przed ziejącym ogniem smokiem okazuje się być najmniejszym problemem przyjaciół, kiedy to zostaje odkryty głęboko skrywany, mroczny sekret Fiony.",
+        "grade": 8,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 8,
+        "title":"Gladiator",
+        "year":2000,
+        "type": [
+            "Dramat",
+            "Historyczny"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/09/36/936/7472818.6.jpg",
+        "direction": "Ridley Scott",
+        "scenario" : "David Franzoni",
+        "production": "USA/ Wielka Brytania",
+        "description":"Generał Maximus (Russell Crowe), jeden z najwybitniejszych dowódców w rzymskiej armii, dowiaduje się, że umierający cesarz Marek Aureliusz (Richard Harris) chce uczynić go swoim następcą na tronie. Nie podoba się to prawowitemu dziedzicowi, Kommodusowi (Joaquin Phoenix), który postanawia pozbyć się rywala i skazuje go na karę śmierci wraz z całą rodziną. Maximusowi cudem udaje się uciec. Trafia do niewoli, gdzie zostaje wyszkolony na gladiatora. Z walki na walkę zyskuje popularność, a na jego występy zaczyna przychodzić coraz więcej ludzi. Maximus jako wojownik wraca do Rzymu, by pomścić swoich bliskich, ale wie, że jedyną potęgą większą od władzy cesarza jest wola ludu i dlatego, by dokonać zemsty, musi stać się największym bohaterem Imperium.",
+        "grade": 8,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 9,
+        "title":"Bękarty wojny",
+        "year":2009,
+        "type": [
+            "Wojenny"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/77/47/137747/7276639.6.jpg",
+        "direction": "Quentin Tarantino",
+        "scenario" : "Quentin Tarantino",
+        "production": "Niemcy/USA",
+        "description":"Akcja filmu rozpoczyna się w okupowanej Francji podczas egzekucji rodziny Shosanny Dreyfus (Mélanie Laurent), której dziewczyna jest świadkiem. Stracenia dokonuje nazistowski pułkownik Hans Landa (Christoph Waltz). Shosannie udaje się uciec i wyjechać do Paryża, gdzie, jako właścicielka kina, przyjmuje nową tożsamość. W innym miejscu w Europie, porucznik Aldo Raine (Brad Pitt) organizuje grupę żydowskich żołnierzy, którzy mają dokonywać aktów zemsty. Do oddziału Raine'a dołącza niemiecka aktorka i agentka Bridget Von Hammersmark (Diane Kruger), której misją jest pozbawienie władzy przywódców Trzeciej Rzeszy. Losy tych ludzi zbiegają się pod kinowym afiszem, gdzie Shosanna przygotowuje własny plan zemsty... ",
+         "grade": 8,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              }
+          ]
+
+     },
+     {
+        "id": 10,
+        "title":"Incepcja",
+        "year":2010,
+        "type": [
+            "Surrealistyczny",
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "imgUrl": "https://fwcdn.pl/fpo/08/91/500891/7354571.6.jpg",
+        "direction": "Christopher Nolan",
+        "scenario" : "Christopher Nolan",
+        "production": "USA/ Wielka Brytania",
+        "description":"Światowej sławy filmowiec Christopher Nolan wyreżyserował film z gwiazdorską obsadą, który zabiera widzów w podróż dookoła ziemskiego globu oraz w głąb intymnego i nieskończonego świata snów. Dom Cobb (Leonardo DiCaprio) jest niezwykle sprawnym złodziejem, mistrzem w wydobywaniu wartościowych sekretów ukrytych głęboko w świadomości podczas fazy snu, kiedy umysł jest najbardziej wrażliwy. Wyjątkowe umiejętności Cobba uczyniły z niego ważnego gracza w świecie szpiegostwa przemysłowego, ale i najbardziej poszukiwanego zbiega, a za swoją pozycję zapłacił utratą wszystkiego, co kocha. Teraz Cobb otrzymuje szansę na odkupienie. Za sprawą jednego, ostatniego zadania może odzyskać stracone życie. Musi tylko wraz ze swym zespołem dokonać rzeczy niemożliwej: zamiast skraść myśl, zaszczepić ją w śpiącym umyśle. Jeśli im się to uda, dokonają zbrodni doskonałej. Jednak nawet najbardziej precyzyjne planowanie nie jest w stanie przygotować ich na spotkanie z niezwykłym przeciwnikiem, który potrafi przewidzieć każdy ich ruch. Wróg, którego tylko Cobb mógł się spodziewać.",
+        "grade": 8,
+        "comments":
+        [
+            {
+                "author": "Adam Adam",
+                "text": "Oglądałem już tysiące razy!"
+            },
+            {
+                "author": "Beata",
+                "text": "Best best best!"
+            },
+            {
+                "author": "Pawełek",
+                "text": "Lubie to!"
+            }
+          ],
+          "seances":
+          [
+              {
+                  "id": 3,
+                  "time": "17:00",
+                  "room": 1,
+                  "seats":
+                  [
+                      1,10,25,30,17,15
+                  ]
+              },
+              {
+                "id": 4,
+                  "time": "14:00",
+                  "room": 3,
                   "seats":
                   [
                       1,10,25,30,17,15
