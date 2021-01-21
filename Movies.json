@@ -18,7 +18,8 @@
           [
               {
                   "author": "Alice",
-                  "text": "Najlepszy film jaki widziałam!"
+                  "text": "Najlepszy film jaki widziałam!",
+                  "imgUrl": "https://i.pinimg.com/474x/4e/4c/37/4e4c37d444e3c2e16a124a1cf5255e85.jpg",
               },
               {
                   "author": "Tom",
